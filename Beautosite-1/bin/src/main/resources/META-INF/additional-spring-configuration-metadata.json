@@ -1,0 +1,67 @@
+{"properties": [
+  {
+    "name": "spring.minio.access-key",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.minio.access-key'"
+  },
+  {
+    "name": "spring.minio.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.minio.url'"
+  },
+  {
+    "name": "spring.minio.bucket",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.minio.bucket'"
+  },
+  {
+    "name": "minio.access.name",
+    "type": "java.lang.String",
+    "description": "A description for 'minio.access.name'"
+  },
+  {
+    "name": "minio.access.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'minio.access.secret'"
+  },
+  {
+    "name": "spring.minio.secret-key",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.minio.secret-key'"
+  },
+  {
+    "name": "minio.default.folder",
+    "type": "java.lang.String",
+    "description": "A description for 'minio.default.folder'"
+  },
+  {
+    "name": "minio.url",
+    "type": "java.lang.String",
+    "description": "A description for 'minio.url'"
+  },
+  {
+    "name": "minio.url",
+    "type": "java.lang.String",
+    "description": "A description for 'minio.url'"
+  },
+  {
+    "name": "minio.url",
+    "type": "java.lang.String",
+    "description": "A description for 'minio.url'"
+  },
+  {
+    "name": "minio.url",
+    "type": "java.lang.String",
+    "description": "A description for 'minio.url'"
+  },
+  {
+    "name": "sprig.mail.iiot.connx.mail.sender",
+    "type": "java.lang.String",
+    "description": "A description for 'sprig.mail.iiot.connx.mail.sender'"
+  },
+  {
+    "name": "minio.url",
+    "type": "java.lang.String",
+    "description": "A description for 'minio.url'"
+  }
+]}
